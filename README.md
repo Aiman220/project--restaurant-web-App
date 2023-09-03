@@ -10,8 +10,6 @@ Gericht is a modern and stylish restaurant app built using React.js. It's design
 
 - *Ordering Convenience:* Order your favorite dishes for delivery or takeout, all within the app.
 
-- *User Reviews:* Share your dining experiences and read reviews from other food enthusiasts.
-
 - *User-friendly Design:* Gericht offers an intuitive and user-friendly interface for a hassle-free experience.
 
 *Technologies Used:*
